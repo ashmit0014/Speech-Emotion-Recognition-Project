@@ -1,3 +1,8 @@
+<!-- profile-editorial-cover -->
+<picture>
+  <img src=".github/project-cover.png" alt="Speech-Emotion-Recognition-Project by Ashmit Kundu" width="100%" />
+</picture>
+
 # Speech Emotion Recognition using CNN and RAVDESS Dataset
 
 This project implements a Speech Emotion Recognition (SER) system using deep learning. The model is trained to identify emotions from audio recordings using the **RAVDESS dataset**. It utilizes **Convolutional Neural Networks (CNNs)** with extracted audio features like **MFCCs (Mel-frequency cepstral coefficients)** for emotion classification.
